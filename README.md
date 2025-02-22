@@ -32,3 +32,10 @@ git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
 ```shell
 nvim
 ```
+
+## 🧰 My Plugins
+
+1. Colorscheme:
+  - [Iceberg-vim](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/cocopon/iceberg.vim&ved=2ahUKEwiE_JWSsteLAxWspJUCHVJSBHgQFnoECBQQAQ&usg=AOvVaw0aY02WkplmS02HRpjr87iV)
+
+
